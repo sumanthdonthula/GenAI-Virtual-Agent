@@ -6,3 +6,5 @@ and similarity search
 
 • Incorporated langchain, FAISS, and OpenAI libraries and modules, as well as leveraged the capabilities of large
 language models (LLMS) such as GPT-3.5, to enhance the functionality
+
+![My Video](https://drive.google.com/drive/u/1/my-drive)
