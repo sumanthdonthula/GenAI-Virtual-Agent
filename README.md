@@ -17,5 +17,4 @@ Feel free to explore, contribute, and elevate this project to new heights!
 ## Demo:
 
 Check out the demo video for a visual walkthrough of the AI-powered Virtual Agent:
-[![My Video](https://drive.google.com/drive/u/1/my-drive)](https://github.com/sumanthdonthula/AI-Powered-Virtual-Agent/assets/46747610/36f2a027-9df0-41a8-8571-aa7227dc7c5c
-)
+[Watch the Demo Video](https://github.com/sumanthdonthula/AI-Powered-Virtual-Agent/Project Demo.mp4)
