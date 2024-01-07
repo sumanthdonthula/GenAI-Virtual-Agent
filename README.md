@@ -17,6 +17,7 @@ Feel free to explore, contribute, and elevate this project to new heights!
 ## Demo:
 
 Check out the demo video for a visual walkthrough of the AI-powered Virtual Agent:
+
 ![Demo gif](projectDemo.gif)
 
 
