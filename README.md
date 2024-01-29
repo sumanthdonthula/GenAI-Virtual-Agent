@@ -1,4 +1,4 @@
-# AI-Powered Virtual Agent
+# GenAI Virtual Agent
 
 Welcome to my AI-powered Virtual Agent project! This innovative virtual agent seamlessly responds to user prompts, providing information on my experience, projects, and curriculum.
 
